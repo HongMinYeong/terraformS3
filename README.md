@@ -162,7 +162,7 @@ $ sudo su -
 
 이 파일은 EC2 인스턴스와 관련된 리소스를 정의합니다.
 
-[ ?? : 사실 여기서 EC2 관련 설정은 안해도되는데 terraform 을 이용한 EC2 인스턴스 생성을 해보고자 ,,,, ]
+[ ?? : 사실 여기서 EC2 관련 설정은 안해도되는데 terraform 을 이용한 EC2 인스턴스 생성을 해보고자 ,,,, 현 과정에선, EC2관련 설정은 해주지 않아도된다. ]
 
 1. **AWS 제공자 설정**:
     
@@ -324,13 +324,12 @@ $ sudo su -
 
 ### 결과
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/57188e58-a14b-4fa9-a00a-17496f076b58/image.png)
+![10161](https://github.com/user-attachments/assets/e50637e8-51a3-402b-91a8-94ed740e2b3a)
 
 쨔쟈쟌
 
 s3에 올라간 index.html 입니다. Main Page로 가는 a태그 클릭시 
-
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/d7574c62-10f4-47c7-add0-3b850c5efda5/image.png)
+![10162](https://github.com/user-attachments/assets/445db18d-298a-4cfd-9013-0e5f425b08c8)
 
 s3에 업로드된 image파일을 포함한 main.html 이 나오는 결과를 확인할 수 있습니다. 
 
