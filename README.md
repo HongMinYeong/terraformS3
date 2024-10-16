@@ -21,8 +21,8 @@ AI를 활용한 그림일기 생성 기능이 있는 애플리케이션 프로�
 
 ## 기술 스택
 
-- AWS S3: 정적 파일 호스팅
-- Terraform: 인프라 코드 관리
+- <img src="https://img.shields.io/badge/Amazon s3-569A31?style=flat-square&logo=Amazon s3&logoColor=white" /> : 정적 파일 호스팅
+- <img src="https://img.shields.io/badge/terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" /> : 인프라 코드 관리
 
 ## 구현 단계
 
